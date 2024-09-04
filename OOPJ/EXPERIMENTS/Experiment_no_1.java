@@ -1,4 +1,4 @@
-public class spring {
+public class Experiment_no_1 {
 
     public static void main(String[] args) {
         // Example of a for loop
